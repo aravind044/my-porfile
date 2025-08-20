@@ -56,14 +56,7 @@ const ServicesSection = () => {
                 </div>
               </div>
 
-              {/* Featured Badge */}
-              {service.featured && (
-                <div className="absolute -top-3 left-1/2 transform -translate-x-1/2">
-                  <span className="bg-primary text-primary-foreground px-4 py-1 rounded-full text-sm font-semibold">
-                    Featured
-                  </span>
-                </div>
-              )}
+            
 
               {/* Service Content */}
               <div className="text-center space-y-4">
