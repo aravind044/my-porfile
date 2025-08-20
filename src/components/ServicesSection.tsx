@@ -16,14 +16,14 @@ const ServicesSection = () => {
       title: 'PC Build Service',
       description: 'Professional custom PC building service for gaming, workstations, and specialized computing needs. From component selection to assembly and optimization.',
       features: ['Custom Gaming PCs', 'Workstation Builds', 'Performance Optimization', 'Technical Support'],
-      featured: false,
+      featured: true,
     },
     {
       icon: networkIcon,
       title: 'Network Configuration',
       description: 'Professional LAN setup and network configuration services for homes and small businesses. Ensuring optimal connectivity and security.',
       features: ['LAN Setup', 'Network Security', 'Performance Optimization', 'Troubleshooting'],
-      featured: false,
+      featured: true,
     },
   ];
 
