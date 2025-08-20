@@ -48,7 +48,7 @@ const HeroSection = () => {
           </div>
 <div className="pt-8 flex justify-center">
   <a
-    href="https://drive.google.com/file/d/13DT11nkrG0vbuXGUrwCTNGo8rP3IWlLR/view?usp=drive_link"   // Ensure the resume file is in the "public" folder
+    href="https://drive.google.com/file/d/1sGim0eWedmGW7vaHdEVkET5K4o5t0Ugv/view?usp=drive_link"   // Ensure the resume file is in the "public" folder
    
   >
     <button className="btn-hero group flex items-center">
