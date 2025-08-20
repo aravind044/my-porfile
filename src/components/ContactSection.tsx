@@ -31,16 +31,17 @@ const ContactSection = () => {
 
     try {
       // Send email using EmailJS
-      await emailjs.send(
-        'YOUR_SERVICE_ID', // Replace with your EmailJS service ID
-        'YOUR_TEMPLATE_ID', // Replace with your EmailJS template ID
-        {
-          from_name: formData.name,
-          from_email: formData.email,
-          message: formData.message,
-        },
-        'YOUR_PUBLIC_KEY' // Replace with your EmailJS public key
-      );
+   await emailjs.send(
+  'service_dmhlaf2',        // Your Service ID
+  'template_wf8n5ig',       // Your Template ID
+  {
+    from_name: formData.name,
+    from_email: formData.email,
+    message: formData.message,
+  },
+  'YJ2mB_eZ87CMlhmJW'       // Your Public Key
+);
+
 
       toast({
         title: "Message sent successfully!",
