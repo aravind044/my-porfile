@@ -21,7 +21,7 @@ const ProjectsSection = () => {
     {
       title: 'JARVIS.ai',
       description: 'JARVIS is a desktop voice assistant built using Python. It can respond to voice commands, search the internet, open websites, play music, take screenshots, store reminders, and more — all through speech..',
-      image: '🌤️',
+      image: '🤖',
       technologies: ['Python', 'Machine Learning', 'LIB-functions', 'Speech Recognition'],
       demoLink: '#',
       githubLink: 'https://github.com/aravind044/Jaravis.ai',
