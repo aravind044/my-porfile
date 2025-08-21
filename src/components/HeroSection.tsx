@@ -4,7 +4,7 @@ const HeroSection = () => {
   const socialLinks = [
     { icon: Linkedin, href: 'https://www.linkedin.com/in/aravind-prasana-a8p04042004a/', label: 'LinkedIn' },
     { icon: Github, href: 'https://github.com/aravind044', label: 'GitHub' },
-    { icon: Instagram, href: 'https://www.instagram.com/the.hacker__ap/', label: 'Instagram' },
+    { icon: Instagram, href: 'https://www.instagram.com/netspark.solution/', label: 'Instagram' },
   
   ];
  
