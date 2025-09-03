@@ -79,7 +79,7 @@ const Footer = () => {
         <div className="border-t border-border mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-muted-foreground text-sm">
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Aravind Prasana. All rights reserved.
             </div>
             <div className="flex items-center text-muted-foreground text-sm">
               Made with <Heart className="text-red-500 mx-2" size={16} /> by Netspark
